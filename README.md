@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PT-029907
 - 👀 I’m interested in coding, learning math and playing games, especially roblox :")
-- 🌱 I’m currently learning about python, html, and java
+- 🌱 I’m currently learning about python, html, css, and javascrift
 
 
 <!---
