@@ -1,4 +1,4 @@
- Eyo im jerry🤶(but actually phuong thuy is my real name)
+ Eyo im jerry🤶(but actually phuong thuy is my real name)\n
  i also have another nickname that i call myself: Bunrieucua 
 <!---
 PT-029907/PT-029907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
